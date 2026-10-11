@@ -48,7 +48,7 @@ The objective is to understand how network scanning works, interpret scan result
 
 The accompanying Word report contains the commands used, explanations of their options, terminal screenshots, observed results, troubleshooting notes, and conclusions.
 
-**Report:** `Nmap_Network_Reconnaissance_Report_Updated.docx`
+**Report:** `Nmap Basic Reconnaissance Report.pdf`
 
 ## Scope and Responsible Use
 
